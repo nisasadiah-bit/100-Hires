@@ -1,23 +1,28 @@
- 
-## Tools yang saya install
+100-Hires Portfolio Project
 
+This repository documents my progress in completing the initial setup task for the 100Hires hiring process.
+
+Tools Installed
 - Cursor IDE
 - Claude Code Extension
 - Codex Extension
 - GitHub
-## Langkah yang sudah saya lakukan
 
-1. Menginstall Cursor IDE
-2. Menambahkan extension Claude Code dan Codex
-3. Membuat akun GitHub
-4. Membuat repository publik
-5. Membuka repository di Cursor
-6. Membuat file README.md
+Steps Completed
+1. Installed Cursor IDE
+2. Installed Claude Code and Codex extensions in Cursor
+3. Created a GitHub account
+4. Created a public repository
+5. Opened the repository in Cursor
+6. Created and edited README.md
+7. Committed and pushed changes to GitHub
 
-## Kendala yang saya hadapi
+Challenges & Solutions
+Challenge: I was initially confused about how to install extensions in Cursor  
+Solution: I searched for tutorials and followed step-by-step guides until I successfully installed them.
 
-- Awalnya bingung cara install extension di Cursor
-
-## Cara saya mengatasi
-
-- Saya mencari tutorial dan mencoba satu per satu sampai berhasil
+Notes
+This project helped me understand how to:
+- Set up a development environment
+- Use AI tools inside an IDE
+- Work with GitHub repositories
