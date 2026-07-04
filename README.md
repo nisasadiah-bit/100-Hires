@@ -1,8 +1,3 @@
-# 100-Hires
-Training for job
-# 100-Hires
-
-Training for job
 
 ## Tools yang saya install
 
